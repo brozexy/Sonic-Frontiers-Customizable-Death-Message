@@ -1,0 +1,151 @@
+{
+   "Groups": [
+      {
+         "Name": "main",
+         "DisplayName": "Options",
+         "Elements": [
+
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Death Message",
+               "Description": [ 
+                  " "
+               ],
+               "Type": "dms",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "default"
+            }
+         ]
+   }
+   ],
+   
+   "Enums": {
+
+      "dms": 
+	  [
+         {
+            "DisplayName": "Aw hell nah",
+            "Value": "aw_hell_nah",
+            "Description": [
+               "Sets the death message to 'Aw hell nah'."
+            ]
+         },
+
+         {
+            "DisplayName": "Bruh",
+            "Value": "bruh",
+            "Description": [
+               "Sets the death message to 'Bruh'."
+            ]
+         },
+
+         {
+            "DisplayName": "Cringe",
+            "Value": "cringe",
+            "Description": [
+               "Sets the death message to 'Cringe'."
+            ]
+            
+         },
+
+         {
+            "DisplayName": "Default(Try Again)",
+            "Value": "default",
+            "Description": [
+               "Displays the default death message."
+            ]
+         },
+
+         {
+            "DisplayName": "GAME OVER",
+            "Value": "game_over",
+            "Description": [
+               "Sets the death message to 'GAME OVER'."
+            ]
+         },
+
+         {
+            "DisplayName": "He's dead",
+            "Value": "hes_dead",
+            "Description": [
+               "Sets the death message to 'He's dead'."
+            ]
+         },
+
+         {
+            "DisplayName": "JOEWARI DA",
+            "Value": "joewari_da",
+            "Description": [
+               "Sets the death message to 'JOEWARI DA'."
+            ]
+         },
+
+         {
+            "DisplayName": "Money doesn't people",
+            "Value": "money_doesnt_people",
+            "Description": [
+               "Sets the death message to 'Money doesn't people'."
+            ]
+         },
+
+         {
+            "DisplayName": "Press the jump button again to double jump",
+            "Value": "pjja",
+            "Description": [
+               "Sets the death message to 'Press the jump button again to double jump'."
+            ]
+         },
+
+         {
+            "DisplayName": "Seek Christ",
+            "Value": "seek_christ",
+            "Description": [
+               "Sets the death message to 'Seek Christ'."
+            ]
+         },
+
+         {
+            "DisplayName": "Skill Issue",
+            "Value": "skill_issue",
+            "Description": [
+               "Sets the death message to 'Skill Issue'."
+            ]
+         },
+
+         {
+            "DisplayName": "Sonic was nver good",
+            "Value": "sonic_was_never_good",
+            "Description": [
+               "Sets the death message to 'Sonic was nver good'."
+            ]
+         },
+
+         {
+            "DisplayName": "Ur mom",
+            "Value": "ur_mom",
+            "Description": [
+               "Sets the death message to 'Ur mom'."
+            ]
+         },
+
+         {
+            "DisplayName": "Yikes",
+            "Value": "yikes",
+            "Description": [
+               "Sets the death message to 'Yikes'."
+            ]
+         },
+
+         {
+            "DisplayName": "YOU DIED",
+            "Value": "you_died",
+            "Description": [
+               "Sets the death message to 'YOU DIED'."
+            ]
+         }
+
+      ]
+   },     
+   "IniFile": "mod.ini"
+}
