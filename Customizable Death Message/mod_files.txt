@@ -1,1 +1,17 @@
-add mod.ini
+/money_doesnt_people/raw/text/text_common_en.pac
+/pjja/raw/text/text_common_en.pac
+/seek_christ/raw/text/text_common_en.pac
+/skill_issue/raw/text/text_common_en.pac
+/sonic_was_never_good/raw/text/text_common_en.pac
+/ur_mom/raw/text/text_common_en.pac
+/yikes/raw/text/text_common_en.pac
+/you_died/raw/text/text_common_en.pac
+mod.ini
+options.json
+/aw_hell_nah/raw/text/text_common_en.pac
+/bruh/raw/text/text_common_en.pac
+/cringe/raw/text/text_common_en.pac
+/default/raw/text/text_common_en.pac
+/game_over/raw/text/text_common_en.pac
+/hes_dead/raw/text/text_common_en.pac
+/joewari_da/raw/text/text_common_en.pac
