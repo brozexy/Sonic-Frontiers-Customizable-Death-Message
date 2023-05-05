@@ -25,10 +25,42 @@
       "dms": 
 	  [
          {
+            "DisplayName": "Default(Try Again)",
+            "Value": "default",
+            "Description": [
+               "Displays the default death message."
+            ]
+         },
+          
+         {
+            "DisplayName": "Ambatukam",
+            "Value": "ambatukam",
+            "Description": [
+               "Sets the death message to 'Ambatukam'."
+            ]
+         },
+
+         {
             "DisplayName": "Aw hell nah",
             "Value": "aw_hell_nah",
             "Description": [
                "Sets the death message to 'Aw hell nah'."
+            ]
+         },
+
+         {
+            "DisplayName": "Ayo The Pizza Here",
+            "Value": "ayo_the_pizza",
+            "Description": [
+               "Sets the death message to 'Ayo The Pizza Here'."
+            ]
+         },
+
+         {
+            "DisplayName": "BIG OOF",
+            "Value": "big_oof",
+            "Description": [
+               "Sets the death message to 'BIG OOF'."
             ]
          },
 
@@ -50,14 +82,6 @@
          },
 
          {
-            "DisplayName": "Default(Try Again)",
-            "Value": "default",
-            "Description": [
-               "Displays the default death message."
-            ]
-         },
-
-         {
             "DisplayName": "GAME OVER",
             "Value": "game_over",
             "Description": [
@@ -66,10 +90,26 @@
          },
 
          {
+            "DisplayName": "Git Gud",
+            "Value": "git_gud",
+            "Description": [
+               "Sets the death message to 'Git Gud'."
+            ]
+         },
+
+         {
             "DisplayName": "He's dead",
             "Value": "hes_dead",
             "Description": [
                "Sets the death message to 'He's dead'."
+            ]
+         },
+
+         {
+            "DisplayName": "I ain't readin allat",
+            "Value": "i_aint_readin",
+            "Description": [
+               "Sets the death message to 'I ain't readin allat'."
             ]
          },
 
@@ -90,6 +130,30 @@
          },
 
          {
+            "DisplayName": "No Bitches?",
+            "Value": "no_bitches",
+            "Description": [
+               "Sets the death message to 'No Bitches?'."
+            ]
+         },
+
+         {
+            "DisplayName": "Oh no",
+            "Value": "oh_no",
+            "Description": [
+               "Sets the death message to 'Oh no'."
+            ]
+         },
+
+         {
+            "DisplayName": "Oops!",
+            "Value": "oops",
+            "Description": [
+               "Sets the death message to 'Oops!'."
+            ]
+         },
+
+         {
             "DisplayName": "Press the jump button again to double jump",
             "Value": "pjja",
             "Description": [
@@ -106,10 +170,26 @@
          },
 
          {
+            "DisplayName": "SIUUU",
+            "Value": "siuuu",
+            "Description": [
+               "Sets the death message to 'SIUUU'."
+            ]
+         },
+
+         {
             "DisplayName": "Skill Issue",
             "Value": "skill_issue",
             "Description": [
                "Sets the death message to 'Skill Issue'."
+            ]
+         },
+
+         {
+            "DisplayName": "Sonic Has Had a Rough Transition to 3D",
+            "Value": "sonic_3d",
+            "Description": [
+               "Sets the death message to 'Sonic Has Had a Rough Transition to 3D'."
             ]
          },
 
@@ -128,6 +208,22 @@
                "Sets the death message to 'Ur mom'."
             ]
          },
+         
+         {
+            "DisplayName": "WASTED",
+            "Value": "wasted",
+            "Description": [
+               "Sets the death message to 'WASTED'."
+            ]
+         },
+
+         {
+            "DisplayName": "WOW! YOU LOSE!",
+            "Value": "wow_yl",
+            "Description": [
+               "Sets the death message to 'WOW! YOU LOSE!'."
+            ]
+         },
 
          {
             "DisplayName": "Yikes",
@@ -142,6 +238,14 @@
             "Value": "you_died",
             "Description": [
                "Sets the death message to 'YOU DIED'."
+            ]
+         },
+
+         {
+            "DisplayName": "You tried",
+            "Value": "you_tried",
+            "Description": [
+               "Sets the death message to 'You tried'."
             ]
          }
 
